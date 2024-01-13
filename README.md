@@ -73,7 +73,7 @@ This project wouldn't have been possible without the dedication and collaboratio
 - [Daniel Maithya](https://github.com/tronics-danny) - Project Lead
 - [Stacey Kibarak](https://github.com/Stacy2021) - Hardware Engineer
 - [Cynthia Chepkurui](https://github.com/CynthiaChepkurui) - Software Developer
-- [Samuel Njau](https://github.com/SAMUELMUCHIRI) - Documentation Specialist
+- [Samuel Njau](https://github.com/SAMUELMUCHIRI) - Hardware Programmer
 
 We're grateful for their hard work and commitment to making this project a reality.
 
